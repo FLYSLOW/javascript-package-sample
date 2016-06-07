@@ -1,0 +1,21 @@
+{
+  "name": "javascript-package-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "",
+    "build": "",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:FLYSLOW/javascript-package-sample.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/FLYSLOW/javascript-package-sample/issues"
+  },
+  "homepage": "https://github.com/FLYSLOW/javascript-package-sample",
+  "devDependencies": {}
+}
